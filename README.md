@@ -37,4 +37,4 @@ Attentra features an original pixelated 2D art style set in diverse environments
 
 Collaborating with experts, Attentra ensures that challenges are suitable and effective for special needs children. We have included many accessibility features to promote inclusivity as follows: adjustable difficulty levels, closed captions, colorblind options, text-to-speech/speech-to-text, tutorial/training Modes, and alternative input methods.
 
-###The source code is currently unavailable on GitHub due to ongoing license conflicts arising from our endeavors to publish our game on Steam.
+### The source code is currently unavailable on GitHub due to ongoing license conflicts arising from our endeavors to publish our game on Steam.
